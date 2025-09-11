@@ -3874,6 +3874,7 @@ input, select, textarea {
 
 	#trabalho {
     display: flex;
+	flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 40px;
@@ -3885,7 +3886,7 @@ input, select, textarea {
 	.trabalho-item {
     display: flex;
     flex-direction: column;
-    align-items: center;
+	align-items: center;
     text-align: center;
 }
 
@@ -3897,6 +3898,7 @@ input, select, textarea {
     object-fit: cover;
     border: 1px solid rgba(116, 116, 116, 0.3);
     box-sizing: content-box;
+	margin-right: 1em;
 }
 
 	.trabalho-item p {
