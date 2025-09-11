@@ -3803,3 +3803,168 @@ input, select, textarea {
 			}
 
 		}
+
+/* Idiomas */
+
+	#idiomas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+	.idioma-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+	.idioma-item img {
+    width: 90px;
+    height: 90px;
+    padding: 5px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid rgba(116, 116, 116, 0.3);
+    box-sizing: content-box;
+}
+
+	.idioma-item p {
+    margin-bottom: 0.1em;
+}
+
+/* Graduação */
+
+	#graduacao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+	.graduacao-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+	.graduacao-item img {
+    width: 90px;
+    height: 90px;
+    padding: 5px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid rgba(116, 116, 116, 0.3);
+    box-sizing: content-box;
+}
+
+	.graduacao-item p {
+    margin-bottom: 0.1em;
+}
+
+/* Trabalho */
+
+	#trabalho {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+	.trabalho-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+	.trabalho-item img {
+    width: 90px;
+    height: 90px;
+    padding: 5px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid rgba(116, 116, 116, 0.3);
+    box-sizing: content-box;
+}
+
+	.trabalho-item p {
+    margin-bottom: 0.1em;
+}
+
+/* Certificações */
+
+	#certificacao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+	.certificacao-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+	.certificacao-item img {
+    width: 90px;
+    height: 90px;
+    padding: 5px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid rgba(116, 116, 116, 0.3);
+    box-sizing: content-box;
+}
+
+	.certificacao-item p {
+    margin-bottom: 0.1em;
+}
+
+/* Stack */
+
+	#stack {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+	.certifstackcacao-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+	.stack-item img {
+    width: 90px;
+    height: 90px;
+    padding: 5px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid rgba(116, 116, 116, 0.3);
+    box-sizing: content-box;
+}
+
+	.stack-item p {
+    margin-bottom: 0.1em;
+}
